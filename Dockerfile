@@ -1,4 +1,4 @@
-FROM jolicode/nvm
+FROM jolicode/node-0.10
 
 MAINTAINER Mike Chelen <michael.chelen@gmail.com>
 
