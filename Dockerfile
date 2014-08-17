@@ -1,4 +1,6 @@
-FROM jolicode/node-0.10
+#installs jotgit https://github.com/jdleesmiller/jotgit
+
+FROM jolicode/node-0.10 #image includes both npm and node
 
 MAINTAINER Mike Chelen <michael.chelen@gmail.com>
 
