@@ -1,4 +1,4 @@
-docker-nvm
-==========
+docker-jotgit
+=============
 
-NVM Docker image based on Ubuntu 14.04 LTS Trusty Tahr
+Docker image to run https://github.com/jdleesmiller/jotgit/
